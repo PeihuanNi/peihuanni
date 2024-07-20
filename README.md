@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently studying in **I**nstitute of **A**utomation **C**hinese **A**cademy of **S**ciences, **E**ffecient **I**ntelligent **C**omupting and **L**>earning **Lab**.
+- 🔭 I’m currently studying in **I**nstitute of **A**utomation **C**hinese **A**cademy of **S**ciences, **E**ffecient **I**ntelligent **C**omupting and **L**earning **Lab**.
 - 🏢 Heres are my lab's website:[**CLab, CASIA**](https://clab.ia.ac.cn/)
 - 📖 My interests lies in **Deep Learning Accelerator**, **H**igh **P**erformance **C**omputing), **LLM**, **Model Quantization** and so on.
 - 📓 Here is my personal **website**:[📝](https://peihuanni.github.io), there may have somethings that you might be interested.
