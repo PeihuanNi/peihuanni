@@ -1,11 +1,15 @@
 ## Hi there 👋
-
+- 🔭 I’m currently studying in **I**nstitute of **A**utomation **C**hinese **A**cademy of **S**ciences, **E**ffecient **I**ntelligent **C**omupting and **L**>earning **Lab**.
+- 🏢 Heres are my lab's website:[**CLab, CASIA**](https://clab.ia.ac.cn/)
+- 📖 My interests lies in **Deep Learning Accelerator**, **H**igh **P**erformance **C**omputing), **LLM**, **Model Quantization** and so on.
+- 📓 Here is my personal **website**:[📝](https://peihuanni.github.io), there may have somethings that you might be interested.
+- 😄 If you like what I am doing, please LEAVE A **STAR**🌟
+- ❓ Or if you want to offer me some advice or looking for a conversation, please **contact** me at [🧑‍🎓Private E-mail](peihuanni@gmail.com) and [School E-mail🏫](nipeihuan24@mails.ucas.ia.cn)
+- 🐟 I'm a **Rookie** in this filed, but I will try my **best**!
 <!--
 **PeihuanNi/peihuanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
